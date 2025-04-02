@@ -1,16 +1,13 @@
-👋 Hi there, I'm Arman Gilani!
+Hi there 👋
+I'm Arman Gilani! 🚀 Flutter Developer | Android Developer | Software Engineer 💡 Passionate about building innovative apps and solving real-world problems
 
-🚀 Flutter Developer | Android Developer | Software Engineer
-
-💡 Passionate about building innovative apps and solving real-world problems
-
-🛠️ About Me
-🎓 B.Tech CSE Student with a strong passion for mobile app development.
-💻 Flutter Intern at SanctumCloud System Private Limited – building cross-platform mobile applications.
-🏗️ Experienced in Android, Flutter, FlutterFlow, .NET, and Web Development.
-🔍 Actively working on AI, ML, and Cloud Computing.
-📚 Always learning & improving through projects and competitive programming.
-📫 Reach Me At: armangilani777@gmail.com
+🛠️ About Me:
+* 🎓 B.Tech CSE Student with a strong passion for mobile app development.
+* 💻 Flutter Intern at SanctumCloud System Private Limited – building cross-platform mobile applications.
+* 🏗️ Experienced in Android, Flutter, FlutterFlow, .NET, and Web Development.
+* 🔍 Actively working on AI, ML, and Cloud Computing.
+* 📚 Always learning & improving through projects and competitive programming.
+* 📫 Reach Me At: armangilani777@gmail.com
 
 ### 📌 My GitHub Stats  
 ![Arman Gilani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arman-Gilani&theme=tokyonight&show_icons=true&count_private=true)  
