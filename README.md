@@ -20,7 +20,7 @@
 
 ### 🔧 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,net,dart,flutter,FlutterFlow,mysql,mongodb,firebase,androidstudio,vscode,linux,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,net,dart,flutter,Flutterflow,mysql,mongodb,firebase,androidstudio,vscode,linux,github)](https://skillicons.dev)
 
 ---
 
@@ -31,18 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arman-Gilani&theme=tokyonight" alt="GitHub Streak" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-Gilani&theme=tokyonight&layout=compact" alt="Top Languages" height="160"/>
 </p>
-
----
-
-<!--### 📂 Featured Projects
-
-| Project | Tech Used | Description |
-|--------|-----------|-------------|
-| 🚧 *Coming Soon?* | Flutter / Android / Web | You can list your top 2-3 projects here with links and a one-liner |
-| 📱 Awesome App | Dart, Firebase | An app that does awesome things! |
-| 🧠 AI Experiment | Python, ML | A small ML project you’re proud of |
-
-> _Let me know the actual projects to fill this table!_-->
 
 ---
 
