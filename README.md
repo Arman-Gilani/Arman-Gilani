@@ -20,7 +20,7 @@
 
 ### 🔧 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,net,dart,flutter,Flutterflow,mysql,mongodb,firebase,androidstudio,vscode,linux,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,net,dart,flutter,mysql,mongodb,firebase,androidstudio,vscode,linux,github)](https://skillicons.dev)
 
 ---
 
