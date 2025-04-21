@@ -12,7 +12,7 @@
 
 - 🎓 B.Tech CSE student passionate about mobile app development and emerging tech.
 - 💼 Flutter Intern at **SanctumCloud System Pvt. Ltd.**
-- 📱 Experienced with **Flutter**, **Android (Java/Kotlin)**, **FlutterFlow**, **.NET**, and **Web Development**.
+- 📱 Experienced with **Flutter**, **Android (Java)**, **FlutterFlow**, **.NET**, and **Web Development**.
 - 🚀 Always learning via **projects**, **internships**, and **competitive programming**.
 - 📬 Reach me at: [armangilani777@gmail.com](mailto:armangilani777@gmail.com)
 
@@ -20,7 +20,7 @@
 
 ### 🔧 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,dart,java,kotlin,cpp,python,html,css,javascript,react,bootstrap,mysql,mongodb,firebase,aws,gcp,linux,github,vscode,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,.net,dart,flutter,flutterflow,mysql,mongodb,firebase,androidstudio,vscode,linux,github)](https://skillicons.dev)
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 📂 Featured Projects
+<!--### 📂 Featured Projects
 
 | Project | Tech Used | Description |
 |--------|-----------|-------------|
@@ -42,7 +42,7 @@
 | 📱 Awesome App | Dart, Firebase | An app that does awesome things! |
 | 🧠 AI Experiment | Python, ML | A small ML project you’re proud of |
 
-> _Let me know the actual projects to fill this table!_
+> _Let me know the actual projects to fill this table!_-->
 
 ---
 
@@ -52,13 +52,12 @@
   <a href="mailto:armangilani777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/arman-gilani"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Arman-Gilani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <!-- Add any others like Twitter, Portfolio site, Dev.to, etc. -->
 </p>
 
 ---
 
 ### 🧠 Currently Learning & Exploring
-- 🤖 AI & Machine Learning (Python, TensorFlow, Scikit-learn)
+- 🤖 AI & Machine Learning (Python)
 - ☁️ Cloud Platforms – AWS & GCP
 - 🧩 System Design & Architecture
 
