@@ -28,8 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arman-Gilani&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Arman-Gilani&theme=tokyonight" alt="GitHub Streak" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=highcontrast&hide_border=true&date_format=M%20j[, %Y]" />
+  <img src="https://streak-stats.demolab.com?user=Arman-Gilani&theme=highcontrast&hide_border=true&date_format=M%20j[, %Y]" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-Gilani&theme=tokyonight&layout=compact" alt="Top Languages" height="160"/>
 </p>
 
