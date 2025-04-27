@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Arman Gilani</h1>
-<h3 align="center">🚀 Flutter, FlutterFlow, Android Developer | Software Engineer | Tech Explorer</h3>
+<h3 align="center">🚀 Android, Flutter, FlutterFlow, Developer | Software Engineer | Tech Explorer</h3>
 
 <p align="center">
   💡 Passionate about building creative mobile apps and solving real-world problems with technology.<br/>
@@ -12,7 +12,7 @@
 
 - 🎓 B.Tech CSE student passionate about mobile app development and emerging tech.
 - 💼 Flutter Intern at **SanctumCloud System Pvt. Ltd.**
-- 📱 Experienced with **Flutter**, **Android (Java)**, **FlutterFlow**, **.NET**, and **Web Development**.
+- 📱 Experienced with **Android (Java)**, **Flutter**, **FlutterFlow**, **.NET**, and **Web Development**.
 - 🚀 Always learning via **projects**, **internships**, and **competitive programming**.
 - 📬 Reach me at: [armangilani777@gmail.com](mailto:armangilani777@gmail.com)
 
@@ -28,7 +28,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arman-Gilani&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arman-Gilani&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" height="160" /> -->
   <img src="https://streak-stats.demolab.com/?user=Arman-Gilani&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-Gilani&theme=tokyonight&layout=compact" alt="Top Languages" height="160"/>
 </p>
@@ -51,9 +50,3 @@
 - 🧩 System Design & Architecture
 
 ---
-
-### ✨ Fun Fact
-> "I turn coffee ☕ into code 💻 and bugs 🐛 into features ✨"
-
----
-
