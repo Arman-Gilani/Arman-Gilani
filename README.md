@@ -3,7 +3,7 @@
 
 <p align="center">
   💡 Passionate about building creative mobile apps and solving real-world problems with technology.<br/>
-  🌱 Currently exploring AI, ML, and Cloud Computing
+  🌱 Currently exploring AI, ML, and Cloud Computing.
 </p>
 
 ---
