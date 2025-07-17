@@ -11,7 +11,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech CSE student passionate about mobile app development and emerging tech.
-- 💼 Flutter Intern at **SanctumCloud System Pvt. Ltd.**
 - 📱 Experienced with **Android (Java)**, **Flutter**, **FlutterFlow**, **.NET**, and **Web Development**.
 - 🚀 Always learning via **projects**, **internships**, and **competitive programming**.
 - 📬 Reach me at: [armangilani777@gmail.com](mailto:armangilani777@gmail.com)
