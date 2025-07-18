@@ -49,6 +49,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arman-Gilani&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Arman-Gilani&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
