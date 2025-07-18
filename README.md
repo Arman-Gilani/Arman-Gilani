@@ -1,7 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Arman Gilani</h1>
 <h3 align="center">🚀 Android, Flutter, FlutterFlow, Developer | Software Engineer | Tech Explorer</h3>
 
-<p align="center">
+<!--<p align="center">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Arman-Gilani)
+</p>-->
+
+<p align="center"> 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Arman-Gilani)
 </p>
 
