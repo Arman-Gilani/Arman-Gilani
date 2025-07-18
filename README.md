@@ -1,10 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Arman Gilani</h1>
 <h3 align="center">🚀 Android, Flutter, FlutterFlow, Developer | Software Engineer | Tech Explorer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arman-Gilani&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
-</p>
-
 <p align="center">
   💡 Passionate about building creative mobile apps and solving real-world problems with technology.<br/>
   🌱 Currently exploring AI, ML, and Cloud Computing.
@@ -53,3 +48,7 @@
 - 🧩 System Design & Architecture
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arman-Gilani&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
+</p>
