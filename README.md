@@ -1,6 +1,11 @@
 <h1 align="center">Hey there 👋, I'm Arman Gilani</h1>
 <h3 align="center">🚀 Android, Flutter, FlutterFlow, Developer | Software Engineer | Tech Explorer</h3>
 
+<h1 align="center">Hey there 👋, I'm Arman Gilani</h1>
+<p align="center">
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Arman-Gilani)
+</p>
+
 <p align="center">
   💡 Passionate about building creative mobile apps and solving real-world problems with technology.<br/>
   🌱 Currently exploring AI, ML, and Cloud Computing.
