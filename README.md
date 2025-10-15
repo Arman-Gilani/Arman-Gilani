@@ -1,16 +1,16 @@
-<h1 align="center">Hey there 👋, I'm Arman Gilani</h1>
+<h1 align="center">Hi👋, I'm Arman Gilani</h1>
 <h3 align="center">🚀 Android, Flutter, FlutterFlow, Developer | Software Engineer | Tech Explorer</h3>
 <p align="center">
   💡 Passionate about building creative mobile apps and solving real-world problems with technology.<br/>
-  🌱 Currently exploring AI, ML, and Cloud Computing.
+  🌱 Currently exploring AI, ML, and Cloud Computing Technologies.
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE student passionate about mobile app development and emerging tech.
-- 📱 Experienced with **Android (Java)**, **Flutter**, **FlutterFlow**, **.NET**, and **Web Development**.
+- 🎓 Pursuing **Master of Science (MSc) in Computer Science** at *University of East London (UEL)*
+- 📱 Experienced with **Android(Java)**, **Flutter**, **FlutterFlow**, **.NET**, and **Web Development**.
 - 🚀 Always learning via **projects**, **internships**, and **competitive programming**.
 - 📬 Reach me at: [armangilani777@gmail.com](mailto:armangilani777@gmail.com)
 
@@ -18,7 +18,7 @@
 
 ### 🔧 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,net,dart,flutter,mysql,mongodb,firebase,androidstudio,vscode,linux,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,dotnet,dart,flutter,mysql,mongodb,firebase,androidstudio,visualstudio,vscode,linux,git,github)](https://skillicons.dev)
 
 ---
 
