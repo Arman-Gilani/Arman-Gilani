@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Arman Gilani</h1>
+<h1 align="center">Hi 👋, I'm Arman Gilani</h1>
 <h3 align="center">🚀 Android, Flutter, FlutterFlow, Developer | Software Engineer | Tech Explorer</h3>
 <p align="center">
   💡 Passionate about building creative mobile apps and solving real-world problems with technology.<br/>
